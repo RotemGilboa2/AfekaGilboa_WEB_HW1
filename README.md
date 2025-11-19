@@ -12,7 +12,7 @@
 ## 🔗 **צפייה באתר**
 
 ניתן לצפות באתר המלא בקישור:
-👉 https://YOUR_SITE_URL_HERE
+👉 https://rotemgilboa2.github.io/AfekaGilboa_WEB_HW1/index.html
 
 ---
 
